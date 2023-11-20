@@ -1,3 +1,5 @@
 *.o
 peakperf
 build/
+.kdev4/
+peakperf.kdev4
